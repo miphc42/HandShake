@@ -1,4 +1,4 @@
-# HandShake-HTN-2019
+# HandShake
 Inspiration: 
 Our product was inspired by Hackathons themselves! With the amazing opportunity to meet new people from around the world, we wanted a simple and efficient way to keep in touch with all the new friends we were making. Thus, the idea for Handshake was born!
 
